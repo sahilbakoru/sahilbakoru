@@ -1,4 +1,4 @@
-### Hi there I am sahil,
+### Hi I am sahil,
 ### - 🔭 I’m currently working on Node,React,..etc..etc.
  - 📫 How to reach me: [sahilbakoru.in](https://sahilbakoru.in/)
 <!--
