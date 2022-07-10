@@ -1,8 +1,9 @@
 ### Hi I am sahil,
 ### -  I’m currently working on Node,React,..etc.
+-  How to reach me: [sahilbakoru.in](https://sahilbakoru.in/)
 ![Screenshot 2022-06-07 at 10 15 13 PM](https://user-images.githubusercontent.com/68190549/172437965-b59c171b-4a06-405e-a7bf-20e53105f930.png)
 
- - 📫 How to reach me: [sahilbakoru.in](https://sahilbakoru.in/)
+ 
 <!--
 **sahilbakoru/sahilbakoru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
