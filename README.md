@@ -1,5 +1,5 @@
 ### Hi, I am sahil,
-### I’m currently working on Node,React,React Native...etc.
+### I’m currently working on Node, React, React-Native ...etc.
 ### How to reach me: [sahilbakoru.in](https://sahilbakoru.in/)
 
 
