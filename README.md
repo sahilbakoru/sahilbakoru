@@ -1,4 +1,4 @@
-### Hi, I am sahil,
+### 👋, I am sahil,
 ### currently working on Node, React, React-Native, mongoDB etc.
 ### reach me: [sahilbakoru.in](https://sahilbakoru.in/) or @sahilbakoru
 
