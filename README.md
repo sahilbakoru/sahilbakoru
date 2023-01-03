@@ -1,6 +1,6 @@
 ### 👋, I am sahil,
 ### Working on Node, React, React-Native, mongoDB etc.
-### reach me: [sahilbakoru.in](https://sahilbakoru.in/) or @sahilbakoru
+### reach me: [sahilbakoru.in](https://sahilbakoru.in/) or [@sahilbakoru](https://twitter.com/sahilbakoru)
 
 <!--
 ![Screenshot 2022-06-07 at 10 15 13 PM](https://user-images.githubusercontent.com/68190549/172437965-b59c171b-4a06-405e-a7bf-20e53105f930.png)
