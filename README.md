@@ -1,8 +1,8 @@
-### 👋, I am sahil,
+### Hi, I am sahil,
 
 ### reach me: [sahilbakoru.in](https://sahilbakoru.in/) 
 
-### here a article that you might like.
+### here a article that you might like.👇
 
 # Is software getting worse?
 ![image](https://user-images.githubusercontent.com/68190549/215777952-b9db3d58-98d7-4627-a16a-3a1e8443194b.png)
@@ -25,21 +25,27 @@ But that doesn’t mean there’s no room for objective criticism. Apps are slow
 
 Why don’t we?
 
-Propokov’s answer is “software engineers aren’t taking pride in their work.” There’s some truth to that. But I strongly believe it’s the natural human state to work hard and make excellent things, and we only fail to do so when something repeatedly stops us. So instead of relying on the myth of laziness to explain slow and buggy software, we should be asking “what widespread forces and incentives are creating an environment where it’s hard for software engineers to do their best work?”
+Propokov’s answer is ***“software engineers aren’t taking pride in their work.”*** There’s some truth to that. But I strongly believe it’s the natural human state to work hard and make excellent things, and we only fail to do so when something repeatedly stops us. So instead of relying on the myth of laziness to explain slow and buggy software, we should be asking “what widespread forces and incentives are creating an environment where it’s hard for software engineers to do their best work?”
 
-I have a few answers to that.
+*I have a few answers to that.*
 
 ## Speed is a feature, reliability is nothing
 Software is envisioned by engineers as networks of interacting components, inputs, and outputs. This model is both accurate and useful. However, it’s not the way software is packaged, marketed, or sold. To businesspeople and customers, software is a list of features.
 
 Take an inventory management app as an example. Its marketing materials will consist of several high-res stock photos, a bold color palette, and statements like the following:
 
-Tracks inventory across multiple warehouses
-Integrates with Delivery Pro, Supply Chain Plus, and Super Point-of-Sale systems
-Weekly and monthly reporting at multiple levels
-Fine-grained access and security controls
-Instant updates across all terminals
-Runs on Windows, MacOS, and Linux
+* Tracks inventory across multiple warehouses
+
+* Integrates with Delivery Pro, Supply Chain Plus, and Super Point-of-Sale systems
+
+* Weekly and monthly reporting at multiple levels
+
+* Fine-grained access and security controls
+
+* Instant updates across all terminals
+
+* Runs on Windows, MacOS, and Linux.
+
 These are falsifiable statements; either the software does these things or it does not. They can all be proven in a one-hour product demo. And only one deals with speed. The software may in fact be very slow, taking several seconds to respond to a button click, without making the “instant updates” claim a lie.
 
 We can all agree that speed affects a user’s entire experience of an app. It’s an important marker of quality. But it’s difficult to sell. If you spend your time optimizing a core process while your competitor develops a new type of report, you’ll lose eight of your next ten sales over it. If you poll your existing customers about what you should work on next, they’re going to ask for features, not speed—unless the software is so slow it borders on unusable. And god forbid any red-blooded board of directors would allow the company to take a six-month detour from its product roadmap to work on technical debt. The pressure is always on us to build features, features, features.
@@ -48,7 +54,7 @@ Programmers want to write fast apps. But the market doesn’t care.
 
 You may notice reliability isn’t on the list at all. How exactly would you say that? “Bug-free?” There’s no way to ensure that, let alone prove it in a product demo. “90% unit test coverage and a full suite of integration tests?” Nobody knows what that means and if you explained it to them, they’d be bored. There’s no way to express reliability in a way customers will both believe and care about. The Agile age has taught them that bugs will inevitably exist and you’ll fix them on an ongoing basis. And since there’s no comprehensive way to measure defects in software (surely if we knew about them, we would have already fixed them?) it’s not a feature that can be compared between products. We can invest time to test, refactor, and improve, but it’s entirely possible no one will notice.
 
-Programmers want to write bug-free apps. But the market doesn’t care.
+***Programmers want to write bug-free apps. But the market doesn’t care.***
 
 Disk usage isn’t on the list either, though occasionally it appears in small, low-contrast print below a “Download” button. And of everything here, this one is perhaps least connected with competitiveness or quality in customers’ minds. When was the last time you blamed a developer (as opposed to yourself or your computer) when you ran out of disk space? Or chose between two video games based on download size? Probably never. You can find people who complain about the size of the latest Call of Duty, but the sequels still make a billion dollars the week they come out.
 
@@ -91,6 +97,6 @@ In terms of the market, several popular video games (like Dead Cells and The Bin
 
 If the last 20 years have been about making us more productive—sacrificing efficiency and financial sustainability in the process—perhaps the next 20 will be about tackling our collective technical debt, reclaiming efficiency, and improving economic exchange without losing the productivity that’s made software omnipresent in our lives.
 
-### Note: this article is not written by me, here is the orginal link. https://stackoverflow.blog/2023/01/30/is-software-getting-worse/
+* Note: this article is not written by me, here is the [orginal link]( https://stackoverflow.blog/2023/01/30/is-software-getting-worse/)
 
 ## Thank you for reading.
