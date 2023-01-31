@@ -30,6 +30,8 @@ Propokov’s answer is ***“software engineers aren’t taking pride in their w
 *I have a few answers to that.*
 
 ## Speed is a feature, reliability is nothing
+![image](https://user-images.githubusercontent.com/68190549/215782729-ec49e817-ad7f-4141-9ec2-d5f36f91411d.png)
+
 Software is envisioned by engineers as networks of interacting components, inputs, and outputs. This model is both accurate and useful. However, it’s not the way software is packaged, marketed, or sold. To businesspeople and customers, software is a list of features.
 
 Take an inventory management app as an example. Its marketing materials will consist of several high-res stock photos, a bold color palette, and statements like the following:
@@ -63,6 +65,8 @@ Shrinking an executable or output bundle is thankless work. And it’s often hig
 Some programmers want to write smaller apps. But the benefits aren’t there for the market or for us.
 
 ## Consumer software is undervalued.
+![image](https://user-images.githubusercontent.com/68190549/215783131-7657c3aa-4250-4e1a-8415-59bff8ec5234.png)
+
 It’s not hard to distribute an app. That’s more or less what the Internet is for. But selling an app is like pulling teeth. The same general public who will pay $15 for a sandwich or a movie ticket—and then shrug and move on if they didn’t like it—are overcome by existential doubt if an app they’re interested in costs one (1) dollar. There are only two demographics that are willing to pay for good software: corporations and video gamers. We’ve somehow blundered our way into a world where everyone else expects software to be free.
 
 This expectation has been devastating to the quality of consumer apps. Building an app costs anywhere from 50,000 to half a million dollars. If you can’t get people to pay on the way in, you have to recoup costs some other way. And herein are the biggest causes of bloat and slowness in both web and native applications: user tracking, ads, marketing funnels, affiliate sales, subscription paywalls, counter-counter-measures for all the above, and a hundred even-less-reputable revenue streams. These things are frequently attributed to greed, but more often they’re a result of desperation. Some of the most popular websites on the Internet are just barely scraping by.
@@ -72,6 +76,8 @@ It’s hard to overstate the waste and inefficiency of a system like this. You p
 We could avoid all of this if people were willing to pay for apps. But they’re not. So apps are huge and slow and broken instead.
 
 ## Developers don’t realize the power they have
+![image](https://user-images.githubusercontent.com/68190549/215783331-1c46d7ae-8be3-438e-a458-f6bbf77f19a7.png)
+
 Lest I be accused of blaming everyone but myself, let’s examine the role of software developers. There has to be something we can do better.
 
 Even in a recession, developers have an extraordinary amount of leverage. We can insist on working with (or not working with) specific technologies. We can hold out for high salaries, benefits, and equity. We can change the culture and work environment of an entire company by exercising even the slightest amount of solidarity. Good programmers are hard to come by. Everyone knows it, and we know they know it.
@@ -85,6 +91,8 @@ Most of the time there won’t be any negative consequences. We’re not asking 
 The only caveat is that the incentives aren’t in our favor. It’s an uphill battle. Some managers won’t be comfortable with us spending time on things they don’t understand. Some salespeople will worry that our software isn’t competitive. Investors may threaten to outsource our work to more pliable developers. It will be a while before customer attitudes and market forces shift. But if changing the state of modern software is a worthy goal, then it’s worth the effort.
 
 ## Will it get better?
+![image](https://user-images.githubusercontent.com/68190549/215783590-770de2c4-5e09-4e4f-961f-87c24da0f617.png)
+
 It’s hard to be optimistic about the future of software. Programmers were allowed to build tiny, highly-optimized apps in the 90s because there was no other choice. Their customers had 32 megabytes of RAM and a 200 megahertz single-core processor. If an app wasn’t as lean as possible, it wouldn’t run at all. Today, a two-year-old base-model Macbook Air has 250 times as much memory (not to mention faster memory) and a quad-core processor with several times the speed on any one core. You can get away with a lot more now. And we do. We ship apps that are 90% dead weight. We don’t optimize until someone complains. We package a full web browser installation with apps for sending messages, taking notes, even writing our own code (I’m using one right now).
 
 The last two decades have been dedicated to making software development faster, easier, and more foolproof. And admittedly, we’re creating apps faster than ever, with more features than ever, using less experienced developers than ever. It’s not hard to see the appeal from a business perspective. But we’re paying the price—and so are our customers, the power grid, and the planet.
