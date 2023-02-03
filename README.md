@@ -4,7 +4,7 @@
 ### Here a article that you might like.👇
 
 # Is software getting worse?
-![image](https://user-images.githubusercontent.com/68190549/215777952-b9db3d58-98d7-4627-a16a-3a1e8443194b.png)
+![image](https://user-images.githubusercontent.com/68190549/216559149-8a8ee98d-04ee-4a8d-a6bc-27649ff48f79.png)
 
 I recently stumbled upon “Software disenchantment,” a post by Nikita Propokov. 
 
