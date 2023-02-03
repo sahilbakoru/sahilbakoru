@@ -1,7 +1,7 @@
 
 
 
-### here a article that you might like.👇
+### Here a article that you might like.👇
 
 # Is software getting worse?
 ![image](https://user-images.githubusercontent.com/68190549/215777952-b9db3d58-98d7-4627-a16a-3a1e8443194b.png)
