@@ -1,6 +1,5 @@
-### Hi, I am sahil,
 
-### reach me: [sahilbakoru.in](https://sahilbakoru.in/) 
+
 
 ### here a article that you might like.👇
 
